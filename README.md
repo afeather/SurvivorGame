@@ -18,13 +18,13 @@ Units will attack zombies if they get within range as well so you do not have to
 The minimap is displayed in the top right corner and the bottom panel contains a camp that you can build in order to switch modes.
 
 # Units
-Survivor - This is the basic unit. It can be upgraded to a Medic, Builder or Soldier. These units can build Camps, Medical Tents, Construction Sites and Weapon Depots.
-Medic - Survivors can be upgraded at a Medical Tent to become a Medic. These units cannot attack but can heal other units. Can also build Labratories.
-Scientist - Medics can be upgraded at Labratories to become a Scientist. These units also cannot attack but can heal other Survivors. Also they can cure Zombies which turns them back to Survivors.
-Builder - Survivors can be upgraded at a Construction Site to become a builder. These units can mellee attack and build Bases, Barricade and Workshops.
-Engineer - Builders can be upgraded at Workshops to become an Engineer. These units can build Walls and Radio Towers as well as all of the buildings that a Builder can build.
-Soldier - Survivors can be upgraded at a Weapon Depot to become a Soldier. These units have a stronger attack and can build Towers that will allows Survivors to do extra damage when they are inside.
-Mercenary - Soldiers can be upgraded at a Barracks to become a mercenary. These units have the strongest attack and can build Machine Guns that allow Survivors to do extra damage when they are using them.
+1. Survivor - This is the basic unit. It can be upgraded to a Medic, Builder or Soldier. These units can build Camps, Medical Tents, Construction Sites and Weapon Depots.
+2. Medic - Survivors can be upgraded at a Medical Tent to become a Medic. These units cannot attack but can heal other units. Can also build Labratories.
+3. Scientist - Medics can be upgraded at Labratories to become a Scientist. These units also cannot attack but can heal other Survivors. Also they can cure Zombies which turns them back to Survivors.
+4. Builder - Survivors can be upgraded at a Construction Site to become a builder. These units can mellee attack and build Bases, Barricade and Workshops.
+5. Engineer - Builders can be upgraded at Workshops to become an Engineer. These units can build Walls and Radio Towers as well as all of the buildings that a Builder can build.
+6. Soldier - Survivors can be upgraded at a Weapon Depot to become a Soldier. These units have a stronger attack and can build Towers that will allows Survivors to do extra damage when they are inside.
+7. Mercenary - Soldiers can be upgraded at a Barracks to become a mercenary. These units have the strongest attack and can build Machine Guns that allow Survivors to do extra damage when they are using them.
 
 # Buildings
 Camp - Designates an area as your camp and allows you to enter Survivor Mode
