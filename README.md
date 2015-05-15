@@ -27,16 +27,16 @@ The minimap is displayed in the top right corner and the bottom panel contains a
 7. Mercenary - Soldiers can be upgraded at a Barracks to become a mercenary. These units have the strongest attack and can build Machine Guns that allow Survivors to do extra damage when they are using them.
 
 # Buildings
-Camp - Designates an area as your camp and allows you to enter Survivor Mode
-Base - An upgraded Camp. Serves the same purpose.
-Medical Tent - Used to upgrade Survivors to Medics.
-Labratory - Used to upgrade Medics to Scientists as well as to produce cures.
-Construction Site - Used to upgrade Survivors to Builders.
-Workshop - Used to upgrade Builders to Engineers.
-Weapon Depot - Used to upgrade Survivors to Soldiers.
-Barracks - Used to upgrade Soldiers to Mercenaries.
-Barricade - Blocks that path of Zombies.
-Wall - Blocks the path of Zombies and can be connected together.
-Radio Tower - These send out a signal that attracts Survivors. Randomly adds Survivors to your group.
-Tower - Allows Survivors to do extra damage and to not be hurt by Zombies. Once it is destroyed the units inside will spawn to where the tower was.
-Machine Gun - Allows one Survivor to do a lot of extra damage. Also if it is destoyed the Survivors will just spawn where the building was.
+ 1. Camp - Designates an area as your camp and allows you to enter Survivor Mode
+ 2. Base - An upgraded Camp. Serves the same purpose.
+ 3. Medical Tent - Used to upgrade Survivors to Medics.
+ 4. Labratory - Used to upgrade Medics to Scientists as well as to produce cures.
+ 5. Construction Site - Used to upgrade Survivors to Builders.
+ 6. Workshop - Used to upgrade Builders to Engineers.
+ 7. Weapon Depot - Used to upgrade Survivors to Soldiers.
+ 8. Barracks - Used to upgrade Soldiers to Mercenaries.
+ 9. Barricade - Blocks that path of Zombies.
+10. Wall - Blocks the path of Zombies and can be connected together.
+11. Radio Tower - These send out a signal that attracts Survivors. Randomly adds Survivors to your group.
+12. Tower - Allows Survivors to do extra damage and to not be hurt by Zombies. Once it is destroyed the units inside will spawn to where the tower was.
+13. Machine Gun - Allows one Survivor to do a lot of extra damage. Also if it is destoyed the Survivors will just spawn where the building was.
